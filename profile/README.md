@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 🧬 **NeuroVive**
+# **NeuroVive**
 
 > **AI-powered neurotechnology company** developing intelligent tools for early detection and neural rehabilitation of neurodegenerative diseases.
 
@@ -30,7 +30,7 @@
 
 ---
 
-## 🌍 About Us
+## About Us
 
 **NeuroVive** is a pioneering neurotechnology company leveraging **Artificial Intelligence** and **signal analysis** to transform how neurodegenerative diseases are detected and treated.
 
@@ -38,11 +38,11 @@ We combine **neuroscience**, **machine learning**, and **biomedical engineering*
 
 ---
 
-## 🎯 Vision
+## Vision
 
 To empower neuroscience and healthcare through intelligent AI systems that enhance human life, cognition, and wellbeing.
 
-## 🚀 Mission
+## Mission
 
 - Build **AI-powered platforms** for early diagnosis of neurodegenerative disorders.  
 - Create **data-driven sensors and dashboards** for real-time neural monitoring.  
@@ -51,19 +51,19 @@ To empower neuroscience and healthcare through intelligent AI systems that enhan
 
 ---
 
-## 🧩 Core Projects
+## Core Projects
 
 | Project | Description |
 |----------|--------------|
-| 🧬 **NeuroVive-AI** | Deep learning models for early detection of neurological diseases (Parkinson’s, Alzheimer’s, etc.). |
-| 🎧 **SignalLab** | Advanced Python toolkit for biosignal processing and feature engineering. |
-| 📊 **NeuroVive-Dashboard** | Interactive dashboard for neural data visualization and analytics. |
-| 📡 **NeuroVive-Firmware** | Embedded systems and hardware layer for biosignal acquisition. |
-| 🧾 **Datasets Hub** | Curated, annotated, and preprocessed datasets for AI research. |
+| **NeuroVive-AI** | Deep learning models for early detection of neurological diseases (Parkinson’s, Alzheimer’s, etc.). |
+| **SignalLab** | Advanced Python toolkit for biosignal processing and feature engineering. |
+| **NeuroVive-Dashboard** | Interactive dashboard for neural data visualization and analytics. |
+| **NeuroVive-Firmware** | Embedded systems and hardware layer for biosignal acquisition. |
+| **Datasets Hub** | Curated, annotated, and preprocessed datasets for AI research. |
 
 ---
 
-## 🔬 Research & Innovation
+## Research & Innovation
 
 **NeuroVive Labs** bridges AI research and neuroscience.  
 Our ongoing R&D focuses on:
@@ -73,46 +73,46 @@ Our ongoing R&D focuses on:
 - Sensor fusion for motor function analysis  
 - Adaptive neurorehabilitation via reinforcement learning  
 
-📚 Explore our [Research Repository](https://github.com/NeuroVive/NeuroVive-Research).
+Explore our [Research Repository](https://github.com/NeuroVive/NeuroVive-Research).
 
 ---
 
-## 👥 Team
+## Team
 
 A multidisciplinary team of:
 
-- 🧠 Neuroscientists  
-- 💻 AI Researchers  
-- ⚙️ Software Engineers  
-- ❤️ HealthTech Innovators  
+- Neuroscientists  
+- AI Researchers  
+- Software Engineers  
+- HealthTech Innovators  
 
 Working together to redefine neuro-intelligence.
 
 ---
 
-## 🧭 Roadmap
+## Roadmap
 
 | Phase | Goal | Status |
 |--------|------|--------|
-| 🧩 Phase 1 | Voice-based Parkinson’s detection model | ✅ Completed |
-| 🧠 Phase 2 | Real-time dashboard & visualization tools | 🔄 In Progress |
-| ⚙️ Phase 3 | Sensor integration & embedded firmware | 🔄 Ongoing |
-| 🚀 Phase 4 | Cloud-based neuro data platform & open API | ⏳ Upcoming |
+| Phase 1 | Voice-based Parkinson’s detection model | Completed |
+| Phase 2 | Real-time dashboard & visualization tools | In Progress |
+| Phase 3 | Sensor integration & embedded firmware | Ongoing |
+| Phase 4 | Cloud-based neuro data platform & open API | Upcoming |
 
 ---
 
-## 🤝 Collaborations & Open Source
+## Collaborations & Open Source
 
 We believe in **open innovation**.  
 If you are a researcher, developer, or healthcare professional — let’s connect and collaborate.
 
-📧 Email: **contact@neurovive.com**  
-🌐 Website: [https://neurovive.ai](https://neurovive.ai)  
-🔗 LinkedIn: [NeuroVive](https://linkedin.com/company/neurovive)
+Email: **contact@neurovive.com**  
+Website: [https://neurovive.ai](https://neurovive.ai)  
+LinkedIn: [NeuroVive](https://linkedin.com/company/neurovive)
 
 ---
 
-## 🪄 Tech Stack
+## Tech Stack
 
 | Domain | Tools / Frameworks |
 |--------|--------------------|
@@ -124,7 +124,7 @@ If you are a researcher, developer, or healthcare professional — let’s conne
 
 ---
 
-## 🧑‍💻 Contributors
+## Contributors
 
 <div align="center">
 
@@ -136,17 +136,17 @@ If you are a researcher, developer, or healthcare professional — let’s conne
 
 </div>
 
-✨ Contributions are always welcome!  
+Contributions are always welcome!  
 See our [CONTRIBUTING.md](./CONTRIBUTING.md) for details.
 
 ---
 
-## 📜 License
+## License
 
 Released under the **Apache 2.0 License**.  
 You are free to use, modify, and distribute responsibly.
 
 ---
 
-> 🧠 *Empowering neuroscience through innovation and AI.*  
+> *Empowering neuroscience through innovation and AI.*  
 > — The **NeuroVive** Team
